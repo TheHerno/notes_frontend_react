@@ -1,4 +1,4 @@
-Notes application made for React practice. Using axiso, react-bootstrap and hooks
+Notes application made for React practice. Using axios, react-bootstrap and hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
